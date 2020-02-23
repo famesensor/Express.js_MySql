@@ -1,6 +1,6 @@
 ﻿# Node.js-MySql-Rest-Api
 
-Before connecting Node.js Application with MySQL, we need a table first. So run the SQL script below to create customer table
+Before connecting Node.js Application with MySQL, we need a table customer.
 
 ## Project Setup
 - npm install 
